@@ -57,5 +57,7 @@ public class Loops {
         }
         System.out.println("je prvocislo " + prime);
 
+
+
     }
 }
